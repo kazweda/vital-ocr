@@ -18,4 +18,7 @@ AppSheetで試作した血圧管理アプリです。
 照明の映り込みについては反射防止対策が必要かもしれません。
 
 ## インストール
-準備中です。
+> Optical Character Recognition (OCR)
+This feature is available to AppSheet Enterprise accounts only.
+
+現在OCR機能がベータ版なのと、Enterpriseアカウントが必要ということで、ひとまずの機能の説明とスクリーンショットの紹介までとします。
